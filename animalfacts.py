@@ -1971,6 +1971,7 @@ SHEEP_FACTS = (
     'A collection or group of sheep is called a flock.',
     'Most sheep live between 6-11 years.',
     'A lamb is considered a sheep less than one year old.',
+    'Lambs can make a high pitched sound called “bleating.”', 
     )
 
 SHRIMP_FACTS = (
